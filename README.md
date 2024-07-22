@@ -3,7 +3,7 @@ Company: CODTECH IT SOLUTIONS
 ID: CT08DS3384 
 Domain: Data Science 
 Duration: June to July 2024 
-Mentor: Neela Santhosh Kumar
+Mentor: Neela Santhu
 
 
 # Project: Simple Linear Regression on COVID-19 Dataset
